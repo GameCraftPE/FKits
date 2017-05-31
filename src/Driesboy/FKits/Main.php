@@ -8,7 +8,7 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\plugin\PluginBase;
 
-class MainClass extends PluginBase {
+class Main extends PluginBase {
 
 	public function onEnable() {
 		//codes
@@ -390,7 +390,7 @@ class MainClass extends PluginBase {
 						# Player wasn't recognised by EconomyAPI aka. not registered
 						break;
 					}
-				}	
+				}
 			break;
 		}
 	}
