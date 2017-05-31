@@ -9,62 +9,62 @@ commands:
     description: aerial
     permission: kit.command.aerial
   blind:
-  	description: blind
-  	permission: kit.command.blind
+    description: blind
+    permission: kit.command.blind
   charge:
-  	description: charge
-  	permission: kit.command.charge
+    description: charge
+    permission: kit.command.charge
   cripple:
-  	description: cripple
-  	permission: kit.command.cripple
+    description: cripple
+    permission: kit.command.cripple
   deathbringer:
-  	description: deathbringer
-  	permission: kit.command.deathbringer
+    description: deathbringer
+    permission: kit.command.deathbringer
   lifesteal:
-  	description: lifesteal
-  	permission: kit.command.lifesteal
+    description: lifesteal
+    permission: kit.command.lifesteal
   poison:
-  	description: poison
-  	permission: kit.command.poison
+    description: poison
+    permission: kit.command.poison
   vampire:
-  	description: vampire
-  	permission: kit.command.vampire
+    description: vampire
+    permission: kit.command.vampire
   wither:
-  	description: wither
-  	permission: kit.command.wither
+    description: wither
+    permission: kit.command.wither
   smelting:
-  	description: smelting
-  	permission: kit.command.smelting
+    description: smelting
+    permission: kit.command.smelting
   telepathy:
-  	description: telepathy
-  	permission: kit.command.telepathy
+    description: telepathy
+    permission: kit.command.telepathy
   lumberjack:
-  	description: lumberjack
-  	permission: kit.command.lumberjack
+    description: lumberjack
+    permission: kit.command.lumberjack
   berserker:
-  	description: berserker
-  	permission: kit.command.berserker
+    description: berserker
+    permission: kit.command.berserker
   frozen:
-  	description: frozen
-  	permission: kit.command.frozen
+    description: frozen
+    permission: kit.command.frozen
   hardened:
-  	description: hardened
-  	permission: kit.command.hardened
+    description: hardened
+    permission: kit.command.hardened
   molten:
-  	description: molten
-  	permission: kit.command.molten
+    description: molten
+    permission: kit.command.molten
   selfdestruct:
-  	description: selfdestruct
-  	permission: kit.command.selfdestruct
+    description: selfdestruct
+    permission: kit.command.selfdestruct
   shrink:
-  	description: shrink
-  	permission: kit.command.shrink
+    description: shrink
+    permission: kit.command.shrink
   gears:
-  	description: gears
-  	permission: kit.command.gears
+    description: gears
+    permission: kit.command.gears
   springs:
-  	description: springs
-  	permission: kit.command.springs
+    description: springs
+    permission: kit.command.springs
 
 permissions:
   kit:
