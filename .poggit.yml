@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/GameCraftPE/FKits
+branches:
+- master
+projects:
+  FKits:
+    path: ""
+...
